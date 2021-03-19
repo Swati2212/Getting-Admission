@@ -8,3 +8,5 @@ The machine Learning Algorithms which are used is:
 - SVM
 - Random Forest Regressor
 - K Nearest Neigbors
+
+The Linear Regression Algorithm give the best Accuracy among all..**77%**
